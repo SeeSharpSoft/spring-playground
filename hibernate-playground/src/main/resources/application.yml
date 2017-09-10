@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: playground
+server:
+    port: 4000
